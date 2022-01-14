@@ -1,7 +1,3 @@
-# ECE550 Checkpoint 5
+# Refer to skeleton.v processor.v control.v for program details
+# Refer to other .v files for components of the processor (e.g. ALU, register file...)
 
-Name: Hao Wu                              NetID: hw269
-
-Name: Hongyang Li (Mentos Li)  NetID: hl404
-
-We were using waveform timing simulation to test.
